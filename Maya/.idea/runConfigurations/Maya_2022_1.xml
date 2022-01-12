@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Maya 2022.1" type="MAYACHARM_RUN_CONFIGURATION" factoryName="MAYACHARM_RUN_CONFIGURATION">
+    <option name="executionType" value="FILE" />
+    <option name="mayaSdkPath" value="C:\Program Files\Autodesk\Maya2022\bin\mayapy.exe" />
+    <option name="scriptCodeText" value="" />
+    <option name="scriptFilePath" value="F:\Inverse Kinematics in VR Motion Mirroring\Maya\scripts\clipProcessing.py" />
+    <method v="2" />
+  </configuration>
+</component>
