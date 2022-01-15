@@ -24,7 +24,7 @@ namespace IKVR
             [Range(0f, 30f)] public float forwardSmoothTimeScalar = 1f / 0.3f;
             [HideInInspector] public Vector3 forwardSmoothDamp;
             private Vector3 _directionalVelocityCurrent;
-            [Header("PARAMETERS")]
+            //[Header("PARAMETERS …")]
             [Header("DIRECTIONAL Z")]
             [Range(0f, 10f)] public float directionalVelZSmoothDampScalar = 1f;
             [Range(0f, 15f)] public float directionalVelZSmoothTimeScalar = 1f / 30f;

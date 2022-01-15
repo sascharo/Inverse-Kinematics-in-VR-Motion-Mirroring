@@ -5,9 +5,10 @@
 </p>
 
 ### Inverse Kinematics in VR Motion Mirroring
+###### v0.1.4
 
 Requires:
-- [X] Unity **2022.1.0b2**
+- [X] Unity **2022.1.0b3**.2528
 
 Tested with:
 - [X] Oculus *Quest 2* + *Link (USB 3.2 Gen 1 Type-C)* and *Rift S*
